@@ -1,3 +1,8 @@
+The `package.json` file is located in the `project` directory rather than the root directory. This is causing the workflow to fail when it tries to run `npm install`.
+
+To fix this issue, update the workflow file `.github/workflows/npm-grunt.yml` to change the working directory to `project` before running `npm install`. Here is the modified workflow file:
+
+```yaml
 name: NodeJS with Grunt
 
 on:
@@ -22,7 +27,13 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
 
+    - name: Change directory to project
+      run: cd project
+
     - name: Build
       run: |
         npm install
         grunt
+```
+
+Make sure to commit and push these changes to your repository.

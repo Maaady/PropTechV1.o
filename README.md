@@ -100,13 +100,11 @@ This project demonstrates expertise in:
 ## 📫 Contact
 
 For professional inquiries:
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
-- Portfolio: [Your Portfolio]
+- Mrityunjay Dwivedi
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License .
 
 ---
 

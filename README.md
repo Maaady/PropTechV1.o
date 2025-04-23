@@ -80,7 +80,7 @@ This project demonstrates expertise in:
 - Modern frontend development
 - Database optimization
 
-## 🤝 Contributors
+## 🤝 Contributor
 
 - **Mrityunjay Kumar Dwivedi** - Lead Software Engineer
   - Architecture Design
@@ -104,4 +104,3 @@ This project is licensed under the MIT License .
 
 ---
 
-*Built with ❤️ using Next.js, TypeScript, and AI*

@@ -99,6 +99,7 @@ This project demonstrates expertise in:
 
 For professional inquiries:
 - Mrityunjay Dwivedi
+- www.linkedin.com/in/mrityunjaydwivedi
 
 ## 📄 License
 

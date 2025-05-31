@@ -1,8 +1,8 @@
 # 🏢 PropTech - AI-Powered Real Estate Management Platform
 
-[![Next.js](https://img.shields.io/badge/Next.js-13-black)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-8-black)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-7-black)](https://python.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-13-black)](https:www.//nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-8-black)](https://www.nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-7-black)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue)](https://www.typescriptlang.org/)
 [![Supabase](https://img.shields.io/badge/Supabase-Database-green)](https://supabase.com/)
 [![GDPR](https://img.shields.io/badge/GDPR-Compliant-success)](https://gdpr.eu/)

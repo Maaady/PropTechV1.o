@@ -85,7 +85,6 @@ This project demonstrates expertise in:
 - **Mrityunjay Kumar Dwivedi** - Lead Software Engineer
 - **Fayçal BOUHOU** - Founder
 - **Marouane EL OMARI** - Co-Founder
-retail actors
   - Architecture Design
   - AI Integration
   - Security Implementation

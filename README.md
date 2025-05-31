@@ -98,8 +98,7 @@ This project demonstrates expertise in:
 ## 📫 Contact
 
 For professional inquiries:
-- Mrityunjay Dwivedi
-- www.linkedin.com/in/mrityunjaydwivedi
+-**Mrityunjay Dwivedi**  ( www.linkedin.com/in/mrityunjaydwivedi )
 
 ## 📄 License
 

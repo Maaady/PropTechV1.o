@@ -86,6 +86,7 @@ This project demonstrates expertise in:
 
 - **Mrityunjay Kumar Dwivedi** - Lead Software Engineer
 - **Fayçal BOUHOU** - Founder
+- **Ismail Baayer** - Funding Engineer 
 - **Marouane EL OMARI** - Co-Founder
   - Architecture Design
   - AI Integration

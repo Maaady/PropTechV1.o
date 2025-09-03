@@ -17,6 +17,20 @@ PropTech revolutionizes real estate management in the EU market through AI autom
 - **Security**: GDPR compliance, role-based access control
 - **Cloud Infrastructure**: Serverless deployment, scalable architecture
 
+## 🏗️ System Architecture  
+
+```mermaid
+flowchart TD
+    A[Frontend: Next.js + Tailwind] -->|API Calls| B[Backend Gateway: Node.js + tRPC]
+    B --> C[Supabase DB (PostgreSQL + RLS)]
+    B --> D[AI Engine: Python Services]
+    B --> E[Auth Service: JWT + MFA]
+    B --> F[Email Service: SMTP Integration]
+    C --> G[Analytics Engine: Custom Metrics + Monitoring]
+    D --> H[AI Models: Tenant Scoring + Document Processing]
+    A <-->|WebSockets|
+``````
+
 ## 🚀 Key Technical Achievements
 
 - Implemented real-time property management dashboard with WebSocket updates

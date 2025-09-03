@@ -28,7 +28,7 @@ flowchart TD
     B --> F[Email Service: SMTP Integration]
     C --> G[Analytics Engine: Custom Metrics + Monitoring]
     D --> H[AI Models: Tenant Scoring + Document Processing]
-    A <-->|WebSockets|
+    A <-->|WebSockets|B
 ``````
 
 ## 🚀 Key Technical Achievements

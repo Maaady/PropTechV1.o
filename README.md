@@ -21,7 +21,6 @@ PropTech revolutionizes real estate management in the EU market through AI autom
 
 ## 🏗️ System Architecture  
 
-### Mermaid Diagram (renders on GitHub)
 ```mermaid
 flowchart TD
     A[Frontend: Next.js + Tailwind] -->|API Calls| B[Backend Gateway: Node.js + tRPC]
